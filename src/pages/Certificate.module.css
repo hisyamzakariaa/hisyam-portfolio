@@ -1,0 +1,45 @@
+.certs_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.certs_container p{
+    margin-top: 30px;
+    width: 75%;
+}
+
+.cert_container p,
+.cert_container h2{
+    margin: 5px;
+    width: auto;
+}
+
+.cert_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.cert_container img{
+    border-radius: 0;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    margin-top: 50px;
+    /* border: #3aafa9 3px dashed; */
+    border: rgb(238, 53, 53) 3px dashed;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.wrench{
+    /* color: #3aafa9; */
+    color: rgb(207, 207, 63);
+    margin-right: 20px;
+}

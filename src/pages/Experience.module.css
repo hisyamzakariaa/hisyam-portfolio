@@ -1,0 +1,45 @@
+main {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 50px;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header p{
+    margin-top: 30px;
+    width: 75%;
+}
+
+.exps_container{
+    display: flex;
+    flex-direction: column;
+}
+
+.exp_container{
+    margin-bottom: 30px;
+}
+
+.exp_container h2,
+.exp_container h3,
+.exp_container ul {
+    margin-left: 30px;
+}
+
+hr{
+    margin-bottom: 20px;
+}
+
+h2, h3{
+    margin: 0;
+    padding: 0;
+}
+
+.exp_desc li{
+    color: #2b7a78;
+
+}

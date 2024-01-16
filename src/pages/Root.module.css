@@ -1,0 +1,25 @@
+.nav{
+    width: 100%;
+    background-color: #2b7a78;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    min-height: 100vh;
+    max-height: max-content;
+    max-width: 70rem;
+}
+
+.footer{
+    background-color: #2b7a78;
+    width: 100%;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer hr{
+    margin-top: 0;
+}
