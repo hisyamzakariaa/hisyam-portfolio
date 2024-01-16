@@ -20,6 +20,11 @@ function AboutMePage() {
             development. Possess experience in creating responsive website using
             Html, CSS, JavaScript and React.
           </p>
+          <br />
+          <br />
+          <p style={{fontSize:'small', fontStyle: 'Italic'}}>
+            PS: Since I was too busy with work on the graduation week, I had no time to set a post-convo photoshoot. So this is the only decent picture I have. Say hi to me and my sister!
+          </p>
         </div>
       </div>
       <div className={classes.content}>
