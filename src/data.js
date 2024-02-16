@@ -37,13 +37,13 @@ export const ABOUT_ME = [
     title: "Projects",
     description:
       "Since I have no experience in working in this field yet, I have nothing to show you. However, to prove that I am capable of being a frontend developer, I have built some projects for the past months from scratch on my own. Hit the button below to see them!",
-    link: "/projects",
+    link: "/hisyam-portfolio/projects",
   },
   {
     title: "Education",
     description:
       "Since high school, I used to dream to become an engineer just like my father and I did pursue my study in engineering. However as I grow older, I realised that it was not what I wanted. I found passion in programming and that was when I decided to change my career.",
-    link: "/education",
+    link: "/hisyam-portfolio/education",
   },
 ];
 
@@ -98,3 +98,14 @@ export const WORK_EXP = [
     ],
   },
 ];
+
+const x = 2;
+let y = 4;
+function update(arg){
+  return Math.random() + y * arg;
+} 
+
+y = 2;
+
+y = 3;
+const result = update(x)

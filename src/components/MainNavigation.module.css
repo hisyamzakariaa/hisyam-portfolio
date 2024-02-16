@@ -1,4 +1,4 @@
-.nav{
+.nav_pc{
     margin: 0;
     display: flex;
     /* justify-content: space-between; */
@@ -26,4 +26,8 @@
 .list a:hover,
 .list a.active {
     color: #17252a;
+}
+
+@media (max-width: 420px){
+
 }

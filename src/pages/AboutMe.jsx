@@ -15,10 +15,7 @@ function AboutMePage() {
         <div className={classes.header_text}>
           <h1>About Me</h1>
           <p>
-            A civil engineer graduate with minor experience in construction
-            industry. Currently looking foropportunities to change career to web
-            development. Possess experience in creating responsive website using
-            Html, CSS, JavaScript and React.
+          Enthusiastic and results-driven civil engineer with one year of experience in engineering industry and possess knowledge in web development. Eager to leverage my skills and commitment to excellence in a new and challenging role. Seeking an opportunity to contribute to innovative projects and further develop my expertise in a dynamic professional environment.
           </p>
           <br />
           <br />
